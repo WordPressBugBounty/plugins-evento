@@ -2,10 +2,10 @@
 /*
 * Plugin Name:       	Evento
 * Description:       	Evento plugin is provides you a complete theme demo import setup for EventPress WordPress theme. This Plugin Developed for only EventPress & Childs Theme. EventPress is Seasonal Themes.
-* Version:           	2.1
+* Version:           	2.3
 * Author: 				nayrathemes
 * Author URI: 			https://nayrathemes.com
-* Tested up to: 		6.6
+* Tested up to: 		6.7
 * Requires: 			4.6 or higher
 * License: 				GPLv3 or later
 * License URI: 			http://www.gnu.org/licenses/gpl-3.0.html

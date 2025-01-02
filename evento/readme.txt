@@ -2,9 +2,9 @@
 Contributors: nayrathemes
 Tags: homepage setup, companion, one click demo, sections, customizer
 Requires at least: 6.0
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 2.1
+Stable tag: 2.3
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -35,7 +35,7 @@ The Evento plugin features include:
 
 == License ==
 
-Evento WordPress Plugin, Copyright (C) 2024 Nayra Themes
+Evento WordPress Plugin, Copyright (C) 2025 Nayra Themes
 Evento WordPress Plugin is Licensed Under the GPL3 (https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 
@@ -55,6 +55,12 @@ Gallery Images
 
 
 == Changelog ==
+
+= 2.3 =
+* Readme Updated
+
+= 2.2 =
+* Tested - WP 6.7 Compatibility
 
 = 2.1 =
 * Readme Updated
