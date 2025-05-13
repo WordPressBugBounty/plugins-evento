@@ -2,9 +2,9 @@
 Contributors: nayrathemes
 Tags: homepage setup, companion, one click demo, sections, customizer
 Requires at least: 6.0
-Tested up to: 6.7.1
+Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 2.4
+Stable tag: 2.5
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -55,6 +55,9 @@ Gallery Images
 
 
 == Changelog ==
+
+= 2.5 =
+* Tested - WP 6.8 Compatibility
 
 = 2.4 =
 * Tested - WP 6.7.1 Compatibility
